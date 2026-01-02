@@ -21,4 +21,4 @@ Participated in team-based cybersecurity competitions, performing Red, Blue, and
 
 ---
 
-> **Note:** Grey team and Red team information is available in the repository.
+> **Note:** Grey Team and Red Team information is available in the repository.
